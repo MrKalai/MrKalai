@@ -1,1 +1,31 @@
-.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container{min-height:753px;}.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container:after{content:"";min-height:inherit;}.elementor-21 .elementor-element.elementor-element-863ebc0:not(.elementor-motion-effects-element-type-background), .elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(230deg, #FFFFFF 28%, #DEFFFF 100%);}.elementor-21 .elementor-element.elementor-element-863ebc0{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;overflow:visible;}.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column .elementor-column-wrap{align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-21 .elementor-element.elementor-element-fc27b59{text-align:center;}.elementor-21 .elementor-element.elementor-element-fc27b59 .elementor-heading-title{color:#584747;font-family:"Allerta Stencil", Sans-serif;font-size:67px;font-weight:900;line-height:1.4em;letter-spacing:0.9px;}.elementor-21 .elementor-element.elementor-element-d6efbcf .uc_style_gradient_text_effect_elementor_beginning_text{font-family:"Aguafina Script", Sans-serif;font-size:1px;}.elementor-21 .elementor-element.elementor-element-d6efbcf .uc_style_gradient_text_effect_elementor_text{font-family:"Bubblegum Sans", Sans-serif;font-size:26px;font-weight:900;line-height:2.2em;letter-spacing:0.1px;}.elementor-21 .elementor-element.elementor-element-ef86ba0 .gradient_button{padding:15px 40px 15px 40px;}.elementor-21 .elementor-element.elementor-element-678fd60{text-align:center;}.elementor-21 .elementor-element.elementor-element-678fd60 .elementor-image img{width:85%;}.elementor-21 .elementor-element.elementor-element-678fd60 > .elementor-widget-container{margin:60px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-5bf8382 > .elementor-widget-container{margin:0px 0px 0px 0px;}
+.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container{min-height:753px;}.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container:after{content:"";min-height:inherit;}.elementor-21 .elementor-element.elementor-element-863ebc0{overflow:visible;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column .elementor-column-wrap{align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-21 .elementor-element.elementor-element-fc27b59{text-align:center;}.elementor-21 .elementor-element.elementor-element-fc27b59 .elementor-heading-title{color:#584747;font-family:"Allerta Stencil", Sans-serif;font-size:67px;font-weight:900;line-height:1.4em;letter-spacing:0.9px;}.elementor-21 .elementor-element.elementor-element-d6efbcf .uc_style_gradient_text_effect_elementor_beginning_text{font-family:"Aguafina Script", Sans-serif;font-size:1px;}.elementor-21 .elementor-element.elementor-element-d6efbcf .uc_style_gradient_text_effect_elementor_text{font-family:"Bubblegum Sans", Sans-serif;font-size:26px;font-weight:900;line-height:2.2em;letter-spacing:0.1px;}.elementor-21 .elementor-element.elementor-element-ef86ba0 .gradient_button{padding:15px 40px 15px 40px;}.elementor-21 .elementor-element.elementor-element-678fd60{text-align:center;}.elementor-21 .elementor-element.elementor-element-678fd60 .elementor-image img{width:85%;}.elementor-21 .elementor-element.elementor-element-678fd60 > .elementor-widget-container{margin:60px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-5bf8382 > .elementor-widget-container{margin:0px 0px 0px 0px;}/* Start custom CSS for section, class: .elementor-element-863ebc0 */.gradient_bg{
+    background: linear-gradient(118deg, #fecef8, #d6faf8);
+    background-size: 400% 400%;
+
+    -webkit-animation: gradient_bg 19s ease infinite;
+    -moz-animation: gradient_bg 19s ease infinite;
+    -o-animation: gradient_bg 19s ease infinite;
+    animation: gradient_bg 19s ease infinite;
+}
+
+
+@-webkit-keyframes gradient_bg {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes gradient_bg {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes gradient_bg {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes gradient_bg {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}/* End custom CSS */
