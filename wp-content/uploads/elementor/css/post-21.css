@@ -1,31 +1,30 @@
-.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container{min-height:753px;}.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container:after{content:"";min-height:inherit;}.elementor-21 .elementor-element.elementor-element-863ebc0{overflow:visible;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column .elementor-column-wrap{align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-21 .elementor-element.elementor-element-fc27b59{text-align:center;}.elementor-21 .elementor-element.elementor-element-fc27b59 .elementor-heading-title{color:#584747;font-family:"Allerta Stencil", Sans-serif;font-size:89px;font-weight:900;line-height:1.4em;letter-spacing:0.9px;}.elementor-21 .elementor-element.elementor-element-b150ab7{text-align:center;}.elementor-21 .elementor-element.elementor-element-b150ab7 .elementor-image img{width:55%;}.elementor-21 .elementor-element.elementor-element-ef86ba0 .gradient_button{padding:15px 40px 15px 40px;}.elementor-21 .elementor-element.elementor-element-678fd60{text-align:center;}.elementor-21 .elementor-element.elementor-element-678fd60 .elementor-image img{width:85%;}.elementor-21 .elementor-element.elementor-element-678fd60 > .elementor-widget-container{margin:60px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-5bf8382 > .elementor-widget-container{margin:0px 0px 0px 0px;}/* Start custom CSS for section, class: .elementor-element-863ebc0 */.gradient_bg{
-    background: linear-gradient(118deg, #c2b5fa, #bdd1ff);
-    background-size: 400% 400%;
+.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container{min-height:753px;}.elementor-21 .elementor-element.elementor-element-863ebc0 > .elementor-container:after{content:"";min-height:inherit;}.elementor-21 .elementor-element.elementor-element-863ebc0{overflow:visible;}.elementor-bc-flex-widget .elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column .elementor-column-wrap{align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-21 .elementor-element.elementor-element-f4908a5.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-21 .elementor-element.elementor-element-fc27b59{text-align:center;}.elementor-21 .elementor-element.elementor-element-fc27b59 .elementor-heading-title{color:#584747;font-family:"Allerta Stencil", Sans-serif;font-size:89px;font-weight:900;line-height:1.4em;letter-spacing:0.9px;}.elementor-21 .elementor-element.elementor-element-b150ab7{text-align:center;}.elementor-21 .elementor-element.elementor-element-b150ab7 .elementor-image img{width:55%;}.elementor-21 .elementor-element.elementor-element-ef86ba0 .gradient_button{padding:15px 40px 15px 40px;}.elementor-21 .elementor-element.elementor-element-678fd60{text-align:center;}.elementor-21 .elementor-element.elementor-element-678fd60 .elementor-image img{width:85%;}.elementor-21 .elementor-element.elementor-element-678fd60 > .elementor-widget-container{margin:60px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-5bf8382 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-21 .elementor-element.elementor-element-8caa356 > .elementor-container{min-height:121px;}.elementor-21 .elementor-element.elementor-element-8caa356 > .elementor-container:after{content:"";min-height:inherit;}.elementor-21 .elementor-element.elementor-element-8caa356 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-21 .elementor-element.elementor-element-8caa356{overflow:visible;}/* Start custom CSS for section, class: .elementor-element-863ebc0 */.gradient_bg {
+    background: linear-gradient(115deg, #d9a7c7, #fffcdc, #d1f9ff, #ffeaba, #baffbe, #d3baff);
+    background-size: 1200% 1200%;
 
-    -webkit-animation: gradient_bg 5s ease infinite;
-    -moz-animation: gradient_bg 5s ease infinite;
-    -o-animation: gradient_bg 5s ease infinite;
-    animation: gradient_bg 5s ease infinite;
+    -webkit-animation: AnimationName 11s ease infinite;
+    -moz-animation: AnimationName 11s ease infinite;
+    -o-animation: AnimationName 11s ease infinite;
+    animation: AnimationName 11s ease infinite;
 }
 
-
-@-webkit-keyframes gradient_bg {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
+@-webkit-keyframes AnimationName {
+    0%{background-position:83% 0%}
+    50%{background-position:18% 100%}
+    100%{background-position:83% 0%}
 }
-@-moz-keyframes gradient_bg {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
+@-moz-keyframes AnimationName {
+    0%{background-position:83% 0%}
+    50%{background-position:18% 100%}
+    100%{background-position:83% 0%}
 }
-@-o-keyframes gradient_bg {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
+@-o-keyframes AnimationName {
+    0%{background-position:83% 0%}
+    50%{background-position:18% 100%}
+    100%{background-position:83% 0%}
 }
-@keyframes gradient_bg {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
+@keyframes AnimationName {
+    0%{background-position:83% 0%}
+    50%{background-position:18% 100%}
+    100%{background-position:83% 0%}
 }/* End custom CSS */
